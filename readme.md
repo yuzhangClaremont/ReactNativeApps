@@ -9,3 +9,4 @@ step4: sudo npm install expo-cli --global to run nodejs  : to run globally on ma
         scan qr code (tunnel) to open iphone expo client
 
 7: open iphone simulator, in terminal type "i" to run the app
+8: components docs: https://facebook.github.io/react-native/docs/components-and-apis
